@@ -1,11 +1,4 @@
-## <h1 align="center">Hi! 👋 I'm Gokul Bijoy</h1> |  [![Profile Views](https://komarev.com/ghpvc/?username=AsmSafone&style=for-the-badge)](https://github.com/gokulbijoy-here)
-
-- 🔭 I’m currently working on Nothing!
-- 🌱 I’m currently learning Everything I want! 😅
-- 👯 I’m looking to collaborate on 😒😑
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about Anything 😒🤖😑
-- 📫 How to reach me [See Here](https://gokulbijoy2@gmail.com)
+## <h1 align="center">Hola! 👋 I'm GOKUL BIJOY</h1> |  [![Profile Views](https://komarev.com/ghpvc/?username=gokulbijoy-here&style=for-the-badge)](https://github.com/gokulbijoy-here)
 
 <p align="center">
   <a href="https://t.me/telegram.dog/carlmax_here"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
