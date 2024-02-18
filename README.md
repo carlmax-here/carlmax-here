@@ -1,4 +1,4 @@
-## <h1 align="center">Hola! 👋 I'm GOKUL BIJOY</h1> |  [![Profile Views](https://komarev.com/ghpvc/?username=gokulbijoy-here&style=for-the-badge)](https://github.com/gokulbijoy-here)
+## <h1 align="center">Hi! 👋 I'm GOKUL V B </h1> |  [![Profile Views](https://komarev.com/ghpvc/?username=gokulbijoy-here&style=for-the-badge)](https://github.com/gokulbijoy-here)
 
 <p align="center">
   <a href="https://t.me/telegram.dog/carlmax_here"><img src="https://user-images.githubusercontent.com/77770753/117139498-f081c400-adc9-11eb-9aaf-f895a54ecc67.gif"></a>
@@ -22,6 +22,6 @@
 
 # Contact Me
 
-<a href="https://t.me/gokulbijoy"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://gokulbijoy.in"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
                                                                                                                                        
 
